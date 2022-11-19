@@ -1,0 +1,12 @@
+package request
+
+/*
+登录初始化数据库表,管理员账户
+*/
+type InitDB struct {
+	Host     string `json:"host"`                        // 服务器地址
+	Port     string `json:"port"`                        // 数据库连接端口
+	UserName string `json:"userName" binding:"required"` // 数据库用户名
+	Password string `json:"password"`                    // 数据库密码
+	DBName   string `json:"dbName" binding:"required"`   // 数据库名
+}

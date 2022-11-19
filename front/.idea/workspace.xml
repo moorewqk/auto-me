@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c66251d9-d001-4f1d-8eef-9686b7f36754" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1jh2v3eppyyHRYmdCP3BueR9HKp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/api" />
+      <recent name="$PROJECT_DIR$/src/view/jenkins" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="JavascriptDebugType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" editBeforeRun="true" uri="http://localhost:8080" useFirstLineBreakpoints="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c66251d9-d001-4f1d-8eef-9686b7f36754" name="Default Changelist" comment="" />
+      <created>1604242229973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604242229973</updated>
+      <workItem from="1604242231207" duration="2292000" />
+      <workItem from="1604277906024" duration="5394000" />
+      <workItem from="1604321156109" duration="222000" />
+      <workItem from="1604363480101" duration="900000" />
+      <workItem from="1604406513772" duration="299000" />
+      <workItem from="1604449861448" duration="852000" />
+      <workItem from="1604536223099" duration="209000" />
+      <workItem from="1604580776159" duration="1879000" />
+      <workItem from="1604622442638" duration="459000" />
+      <workItem from="1604669874240" duration="843000" />
+      <workItem from="1604756678398" duration="771000" />
+      <workItem from="1604881651417" duration="744000" />
+      <workItem from="1604931806454" duration="398000" />
+      <workItem from="1604967688172" duration="253000" />
+      <workItem from="1605055871428" duration="516000" />
+      <workItem from="1605254388384" duration="6000" />
+      <workItem from="1612494296459" duration="1244000" />
+      <workItem from="1613451053875" duration="580000" />
+      <workItem from="1613619869774" duration="873000" />
+      <workItem from="1613787959408" duration="511000" />
+      <workItem from="1614154408808" duration="605000" />
+      <workItem from="1614176906164" duration="35000" />
+      <workItem from="1616652306272" duration="65000" />
+      <workItem from="1631157447365" duration="627000" />
+      <workItem from="1631272694503" duration="29000" />
+      <workItem from="1631493650498" duration="2361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="2" key="GridCell.Tab.0.bottom" timestamp="1631496021541">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1899" height="2" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1631496021541" />
+    <state width="1899" height="2" key="GridCell.Tab.0.center" timestamp="1631496021541">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1899" height="2" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1631496021541" />
+    <state width="1899" height="2" key="GridCell.Tab.0.left" timestamp="1631496021541">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1899" height="2" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1631496021541" />
+    <state width="1899" height="2" key="GridCell.Tab.0.right" timestamp="1631496021541">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1899" height="2" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1631496021541" />
+    <state x="659" y="307" width="602" height="490" key="find.popup" timestamp="1631495809879">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="659" y="307" width="602" height="490" key="find.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1631495809879" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/layout/aside/index.vue</url>
+          <line>15</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/layout/aside/index.vue</url>
+          <line>38</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/api/menu.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/store/module/router.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
